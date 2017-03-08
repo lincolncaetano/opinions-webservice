@@ -1,0 +1,9 @@
+br/com/projeto/model/Usuario.class
+br/com/projeto/controller/IndexController.class
+br/com/projeto/controller/interceptor/CORSInterceptor.class
+br/com/projeto/model/Postagem.class
+br/com/projeto/dao/PostagemDao.class
+br/com/projeto/dao/ProdutoDao.class
+br/com/projeto/model/Produto.class
+br/com/projeto/controller/CORSController.class
+br/com/projeto/utils/AesUtil.class

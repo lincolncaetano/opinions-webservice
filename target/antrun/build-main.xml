@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="/Users/lincolncaetano/Documents/workspace/projeto/pom-dist.xml" todir="/Users/lincolncaetano/Documents/workspace/projeto/target"/>
+  <replace file="/Users/lincolncaetano/Documents/workspace/projeto/target/pom-dist.xml" value="4.2.0-RC1" token="VRAPTOR_VERSION_HERE"/>
+</target>
+</project>
